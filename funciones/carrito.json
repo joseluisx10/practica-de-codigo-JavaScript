@@ -1,0 +1,24 @@
+[
+ {
+  "nombre": "pan",
+  "cod": "a",
+  "precio": 254,
+  "stock": 5,
+  "marca": {
+   "nombre": "Bimbo",
+   "codigo": "a",
+   "fecha": null
+  }
+ },
+ {
+  "nombre": "biscochitos",
+  "cod": "b",
+  "precio": 236,
+  "stock": 5,
+  "marca": {
+   "nombre": "Bimbo",
+   "codigo": "a",
+   "fecha": null
+  }
+ }
+]

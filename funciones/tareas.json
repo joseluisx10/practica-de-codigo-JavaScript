@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "mostrar",
+        "tarea": "Mostrar los productos del carrito"
+    },
+    {
+        "titulo": "editar",
+        "tarea": "Edita los productos que deseas"
+    },
+    {
+        "titulo": "eliminar",
+        "tarea": "Eliminar producto segun codigo"
+        
+    },
+    {
+        "titulo": "buscar",
+        "tarea": "Buscar producto segun codigo"
+    },
+    {
+        "titulo": "dar de alta",
+        "tarea": "Actualizar carrito"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendinte"
+    }
+]
