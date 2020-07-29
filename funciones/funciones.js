@@ -18,7 +18,7 @@ let funciones= {
         let arraysProductoJS= this.leerArchivo()
         console.log(arraysProductoJS);
     },
-    //falta probar......
+    
     editarProducto: function(produco){
         let arraysProductoJS= this.leerArchivo()
         arraysProductoJS= arraysProductoJS.map(function(p){
